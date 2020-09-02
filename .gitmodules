@@ -1,0 +1,27 @@
+[submodule "omni-mailspring"]
+	path = omni-mailspring
+	url = git@github.com:getomni/omni-mailspring.git
+[submodule "omni-spicetify-theme"]
+	path = omni-spicetify-theme
+	url = git@github.com:getomni/omni-spicetify-theme.git
+[submodule "google-chrome-omni"]
+	path = google-chrome-omni
+	url = git@github.com:getomni/google-chrome-omni.git
+[submodule "konsole-omni"]
+	path = konsole-omni
+	url = git@github.com:getomni/konsole-omni.git
+[submodule "gtk-omni"]
+	path = gtk-omni
+	url = git@github.com:getomni/gtk-omni.git
+[submodule "vscode-omni"]
+	path = vscode-omni
+	url = git@github.com:getomni/vscode-omni.git
+[submodule "insomnia-omni"]
+	path = insomnia-omni
+	url = git@github.com:getomni/insomnia-omni.git
+[submodule "hyper-omni"]
+	path = hyper-omni
+	url = git@github.com:getomni/hyper-omni.git
+[submodule "ulauncher-omni"]
+	path = ulauncher-omni
+	url = git@github.com:getomni/ulauncher-omni.git
