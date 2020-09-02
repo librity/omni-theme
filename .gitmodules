@@ -1,12 +1,6 @@
 [submodule "omni-mailspring"]
 	path = omni-mailspring
 	url = git@github.com:getomni/omni-mailspring.git
-[submodule "omni-spicetify-theme"]
-	path = omni-spicetify-theme
-	url = git@github.com:getomni/omni-spicetify-theme.git
-[submodule "google-chrome-omni"]
-	path = google-chrome-omni
-	url = git@github.com:getomni/google-chrome-omni.git
 [submodule "konsole-omni"]
 	path = konsole-omni
 	url = git@github.com:getomni/konsole-omni.git
