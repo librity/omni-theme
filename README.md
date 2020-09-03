@@ -34,7 +34,7 @@ All instructions can be found at [getomni.dev](https://getomni.dev).
 
 ## Team
 
-Dracula is a project created by [Rocketseat](https://rocketseat.com.br/).
+Omni is a project created by [Rocketseat](https://rocketseat.com.br/).
 
 ## Organization
 
