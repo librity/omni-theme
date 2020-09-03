@@ -7,7 +7,7 @@
 
 </h1>
 
-> A dark theme for [Hyper](https://hyper.is), [Insomnia](https://insomnia.rest), [GTK](https://www.gtk.org), [Konsole](https://konsole.kde.org), [Mailspring](https://getmailspring.com), [Ulauncher](https://ulauncher.io), [VSCode](https://code.visualstudio.com), [Slack](https://slack.com), and many more.
+> A dark theme for [Hyper](https://hyper.is), [Insomnia](https://insomnia.rest), [GTK](https://www.gtk.org), [Konsole](https://konsole.kde.org), [Mailspring](https://getmailspring.com), [Ulauncher](https://ulauncher.io), [VSCode](https://code.visualstudio.com), [Slack](https://slack.com), [DuckDuckGo](https://duckduckgo.com), and many more.
 
 ## Install
 
