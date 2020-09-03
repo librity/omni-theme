@@ -22,3 +22,9 @@
 [submodule "omni-slack"]
 	path = omni-slack
 	url = git@github.com:librity/omni-slack.git
+[submodule "google-chrome-omni"]
+	path = google-chrome-omni
+	url = git@github.com:getomni/google-chrome-omni.git
+[submodule "omni-duckduckgo"]
+	path = omni-duckduckgo
+	url = git@github.com:librity/omni-duckduckgo.git
