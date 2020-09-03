@@ -19,3 +19,6 @@
 [submodule "ulauncher-omni"]
 	path = ulauncher-omni
 	url = git@github.com:getomni/ulauncher-omni.git
+[submodule "omni-slack"]
+	path = omni-slack
+	url = git@github.com:librity/omni-slack.git
