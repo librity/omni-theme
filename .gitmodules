@@ -28,3 +28,9 @@
 [submodule "omni-duckduckgo"]
 	path = omni-duckduckgo
 	url = git@github.com:librity/omni-duckduckgo.git
+[submodule "omni-alacritty"]
+	path = omni-alacritty
+	url = git@github.com:librity/omni-alacritty.git
+[submodule "omni-figma"]
+	path = omni-figma
+	url = git@github.com:librity/omni-figma.git
