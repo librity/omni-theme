@@ -37,3 +37,6 @@
 [submodule "omni-firefox"]
 	path = omni-firefox
 	url = git@github.com:librity/omni-firefox.git
+[submodule "omni-iterm2"]
+	path = omni-iterm2
+	url = git@github.com:librity/omni-iterm2.git
