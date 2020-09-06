@@ -12,7 +12,7 @@ Omni
 > [Mailspring](https://getmailspring.com), [Ulauncher](https://ulauncher.io),
 > [VSCode](https://code.visualstudio.com), [Slack](https://slack.com),
 > [DuckDuckGo](https://duckduckgo.com), [Figma](https://www.figma.com),
-> [Alacritty](https://github.com/alacritty/alacritty),
+> [Sketch](https://www.sketch.com), [Alacritty](https://github.com/alacritty/alacritty),
 > [Firefox](https://www.mozilla.org/firefox), [iTerm 2](http://iterm2.com), and many more.
 
 ## Install

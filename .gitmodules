@@ -40,3 +40,6 @@
 [submodule "omni-iterm2"]
 	path = omni-iterm2
 	url = git@github.com:librity/omni-iterm2.git
+[submodule "omni-sketch"]
+	path = omni-sketch
+	url = git@github.com:librity/omni-sketch.git
