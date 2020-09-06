@@ -34,3 +34,6 @@
 [submodule "omni-figma"]
 	path = omni-figma
 	url = git@github.com:librity/omni-figma.git
+[submodule "omni-firefox"]
+	path = omni-firefox
+	url = git@github.com:librity/omni-firefox.git
