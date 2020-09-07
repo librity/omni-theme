@@ -43,3 +43,9 @@
 [submodule "omni-sketch"]
 	path = omni-sketch
 	url = git@github.com:librity/omni-sketch.git
+[submodule "omni-macdown"]
+	path = omni-macdown
+	url = git@github.com:librity/omni-macdown.git
+[submodule "omni-sublime"]
+	path = omni-sublime
+	url = git@github.com:librity/omni-sublime.git
