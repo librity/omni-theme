@@ -14,6 +14,7 @@ Omni
 > [DuckDuckGo](https://duckduckgo.com), [Figma](https://www.figma.com),
 > [Sketch](https://www.sketch.com), [Alacritty](https://github.com/alacritty/alacritty),
 > [Firefox](https://www.mozilla.org/firefox), [iTerm 2](http://iterm2.com),
+> [Terminal.app](<https://en.wikipedia.org/wiki/Terminal_(macOS)>),
 > [MacDown](https://macdown.uranusjr.com), [Sublime Text](http://sublimetext.com),
 > and many more.
 

@@ -49,3 +49,6 @@
 [submodule "omni-sublime"]
 	path = omni-sublime
 	url = git@github.com:librity/omni-sublime.git
+[submodule "omni-termnial.app"]
+	path = omni-termnial.app
+	url = git@github.com:librity/omni-termnial.app.git
