@@ -52,3 +52,6 @@
 [submodule "omni-termnial.app"]
 	path = omni-termnial.app
 	url = git@github.com:librity/omni-termnial.app.git
+[submodule "omni-obsidian"]
+	path = omni-obsidian
+	url = https://github.com/librity/omni-obsidian
