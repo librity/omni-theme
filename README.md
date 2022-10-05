@@ -21,7 +21,7 @@ Omni
 
 ## Install
 
-All instructions can be found at [getomni.dev](https://getomni.dev).
+All instructions can be found at [github.com/getomni](https://github.com/getomni).
 
 ## Color Palette
 
